@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "description": "A collection of bedtime stories for kids",
+        "price": 0,
+        "category": "free",
+        "img": "src/assets/icons8-books-emoji-96.png"
+    },
+    {
+        "id": 2,
+        "name": "Adventure Tales",
+        "description": "Exciting tales of adventure around the world",
+        "price": 0,
+        "category": "free",
+        "img": "src/assets/icons8-books-emoji-96.png"
+    },
+    {
+        "id": 3,
+        "name": "Science Wonders",
+        "description": "Fun and educational science facts and  stories",
+
+        "price": 0,
+        "category": "free",
+        "img": "src/assets/icons8-books-emoji-96.png"
+    },
+    {
+        "id": 4,
+        "name": "Nature Stories",
+        "description": "Stories about animals and nature for young readers",
+        "price": 0,
+        "category": "free",
+        "img": "src/assets/icons8-books-emoji-96.png"
+    },
+    {
+        "id": 5,
+        "name": "Fantasy Worlds",
+        "description": "Magical and fantasy-filled stories for children",
+        "price": 12,
+        "category": "paid",
+        "img": "src/assets/icons8-books-emoji-96.png"
+    },
+    {
+        "id": 6,
+        "name": "History Mysteries",
+        "description": "Mysteries from history brought to life for young readers",
+        "price": 0,
+        "category": "free",
+        "img": "src/assets/icons8-books-emoji-96.png"
+    },
+    {
+        "id": 7,
+        "name": "Space Explorers",
+        "description": "A journey through space and the stars",
+        "price": 50,
+        "category": "paid",
+        "img": "src/assets/icons8-books-emoji-96.png"
+    },
+    {
+        "id": 8,
+        "name": "Classic Fables",
+        "description": "Timeless fables that teach valuable life lessons",
+        "price": 50,
+        "category": "paid",
+        "img": "src/assets/icons8-books-emoji-96.png"
+    },
+    {
+        "id": 9,
+        "name": "Animal Kingdom",
+        "description": "Explore the animal kingdom through fun stories",
+        "price": 50,
+        "category": "paid",
+        "img": "src/assets/icons8-books-emoji-96.png"
+    },
+    {
+        "id": 10,
+        "name": "Mystic Lands",
+        "description": "Stories from the mystical and mythical lands",
+        "price": 50,
+        "category": "paid",
+        "img": "src/assets/icons8-books-emoji-96.png"
+    }
+]
