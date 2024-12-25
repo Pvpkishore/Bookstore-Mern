@@ -35,6 +35,9 @@ mongoose
   .catch((error) => console.log("Error connecting to MongoDB:", error));
 
 // Defining routes
+app.get(req,res)=>{
+ res.json("Hello")
+}
 app.use("/book", bookRoute);
 app.use("/user", userRoute);
 
